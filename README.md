@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ViLiraDev/ViLiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,11 @@ Here are some ideas to get you started:
 - Python Developer
 - Back-End (Django, Flask)
 - Basic Front-End (HTML,CSS)
-- Learning: DataScience, Machine Learning and more of Python ( and Front-End... )
+
+- 🌱 I’m currently learning
+- DataScience
+- Machine Learning
+- Front-End
 
 ## 📅 Hobbies
 - Solve programming problems
